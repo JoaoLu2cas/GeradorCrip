@@ -10,10 +10,7 @@ def recebeModo():
             print('Digite apenas "criptografar" ou "c" ou "descriptografar" ou "d" .')
         continue
 def recebeChave():
-    """
-    Função que pede o valor da chave para o usuário
-    e devolve a chave caso o valor desta esteja adequado
-    """
+
     global tamanho_max
     chave = 0
     while True :
