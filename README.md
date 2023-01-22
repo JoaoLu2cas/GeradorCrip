@@ -9,3 +9,6 @@
 - Meu próximo passo e aprender um pouco sobre regex ver como eu posso usar nos meu projetos.
 
 ## Contatos
+- E-mail : joaoluccasmarks@gmail.com
+- Tel : 62 99122 4923
+- Linkedin : https://www.linkedin.com/in/joaoluccasm/
